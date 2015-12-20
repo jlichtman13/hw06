@@ -1,2 +1,2 @@
-This is my homework 6 
-# hw06
+This is my homework 6 which unencrypts a statement using a caesar cipher
+
